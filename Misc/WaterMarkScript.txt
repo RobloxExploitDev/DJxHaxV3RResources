@@ -1,0 +1,14 @@
+if not getgenv().ShowDJxHaxV3RWatermark then
+    getgenv().ShowDJxHaxV3RWatermark = function()
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "DJxHaxV3R UI",
+            Text = "Injected Via Velocity",
+            Icon = "rbxassetid://116102792897861"
+        })
+    end
+end
+if not getgenv().DJxHaxV3RWatermarkShown then
+    getgenv().DJxHaxV3RWatermarkShown = true
+    getgenv().ShowDJxHaxV3RWatermark()
+end
+
