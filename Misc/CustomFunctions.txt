@@ -1,0 +1,8 @@
+{
+  "_DJx.PiggyPageCollector": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RobloxExploitDev/PIggy-Page-AutoCollector/refs/heads/main/script.lua\"))()",
+  "_DJx.Test": "print(\"TestPrint Ran\")",
+  "_DJx.Identify": "print(identifyexecutor())",
+  "_DJx.IdentityExec": "printidentity()",
+  "_DJx.TestNew": "print(\"New Test Used For Updated Funcs For Github.\")",
+  "_DJx.IY": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()"
+}
