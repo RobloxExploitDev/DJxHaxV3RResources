@@ -1,0 +1,25 @@
+====================================================
+             DJXHAXV3R UI - V3.0.0VR
+====================================================
+
+                  UI  :  DJx_Devs  
+              Injection : Velocity API  
+              ScriptHub : ScriptBlox API  
+      Inspiration : Original Sentinel Exploit
+
+====================================================
+
+====================================================
+                  ★ CREDITS ★
+----------------------------------------------------
+  ➤ Velocity      : https://getvelocity.lol/
+  ➤ ScriptBlox    : https://ScriptBlox.com
+  ➤ Discord       : https://discord.gg/qVT2yR63fq
+  ➤ skib1dy for giving the template for changelogs :>
+====================================================
+
+====================================================
+                 ★ CHANGELOG ★
+----------------------------------------------------
+➤ Released UI 
+====================================================
