@@ -5,7 +5,6 @@
                   UI  :  DJx_Devs  
               Injection : Velocity API  
               ScriptHub : ScriptBlox API  
-      Inspiration : Original Sentinel Exploit
 
 ====================================================
 
