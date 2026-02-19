@@ -1,3 +1,6 @@
+
+getgenv().CurrentExecDerivative = "DJxHaxV3R"  --For Sentinel/ DJxHax Scripts
+
 if not getgenv().ShowDJxHaxV3RWatermark then
     getgenv().ShowDJxHaxV3RWatermark = function()
         game:GetService("StarterGui"):SetCore("SendNotification", {
