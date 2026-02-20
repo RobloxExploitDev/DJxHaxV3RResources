@@ -4,5 +4,6 @@
   "_DJx.Identify": "print(identifyexecutor())",
   "_DJx.IdentityExec": "printidentity()",
   "_DJx.TestNew": "print(\"New Test Used For Updated Funcs For Github.\")",
+  "_DJx.DevWareFix": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RobloxExploitDev/DJxHaxV3RResources/refs/heads/main/Misc/FixDevnmWare.txt\"))()",
   "_DJx.IY": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()"
 }
