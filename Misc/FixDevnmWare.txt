@@ -1,0 +1,13 @@
+local exec = getgenv().CurrentExecDerivative
+
+if exec then
+	--nada
+else
+	getgenv().CurrentExecDerivative = "DJxHaxV3R"
+	game:GetService("StarterGui"):SetCore("SendNotification", {
+		Title = "DevnmWare V2",
+		Text = "Ran Unsupported Fix",
+    Icon = "rbxassetid://116102792897861",
+		Duration = 5
+	})
+end
