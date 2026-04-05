@@ -1,5 +1,5 @@
 ====================================================
-             DJXHAXV3R UI - V3.0.2VR
+             DJXHAXV3R UI - V3.0.3VR
 ====================================================
 
                   UI  :  DJx_Devs  
@@ -14,11 +14,12 @@
   ➤ Velocity      : https://getvelocity.lol/
   ➤ ScriptBlox    : https://ScriptBlox.com
   ➤ Discord       : https://discord.gg/qVT2yR63fq
-  ➤ skib1dy for giving the template for changelogs :>
+  ➤ skib1dy for giving this template :>
 ====================================================
 
 ====================================================
                  ★ CHANGELOG ★
 ----------------------------------------------------
-➤ early April fools update :p
+➤ Reverted April Fools Update
+➤ Dont Expect an Update for a While, Im Working on PolyDevX :>
 ====================================================
