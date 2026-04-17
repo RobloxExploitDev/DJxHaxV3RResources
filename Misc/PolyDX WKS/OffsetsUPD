@@ -1,5 +1,5 @@
 // Version: version-9d412f44a6fe4081-TEST
-// Sudo Version: ???
+// Byfron Version: ???
 namespace offsets {
     inline constexpr uintptr_t Adornee = 0x108;
     inline constexpr uintptr_t Anchored = 0x1AE;
