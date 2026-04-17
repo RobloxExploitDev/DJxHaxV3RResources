@@ -1,7 +1,7 @@
-// Roblox Version: version-9d412f44a6fe4081
-// Byfron Version: my chickenn nuggets
+// Version: version-9d412f44a6fe4081
+// Sudo Version: ???
 namespace offsets {
-    inline constexpr uintptr_t Adornee = 0xD0;
+    inline constexpr uintptr_t Adornee = 0x108;
     inline constexpr uintptr_t Anchored = 0x1AE;
     inline constexpr uintptr_t AnchoredMask = 0x2;
     inline constexpr uintptr_t AnimationId = 0xD0;
@@ -48,7 +48,7 @@ namespace offsets {
     inline constexpr uintptr_t FFlagList = 0x76B5058;
     inline constexpr uintptr_t FFlagToValueGetSet = 0x30;
     inline constexpr uintptr_t FOV = 0x160;
-    inline constexpr uintptr_t FakeDataModelPointer = 0x7A1D388;
+    inline constexpr uintptr_t FakeDataModelPointer = 0x7A8F908;
     inline constexpr uintptr_t FakeDataModelToDataModel = 0x1C0;
     inline constexpr uintptr_t FogColor = 0xFC;
     inline constexpr uintptr_t FogEnd = 0x134;
@@ -113,7 +113,7 @@ namespace offsets {
     inline constexpr uintptr_t PartSize = 0x1B0;
     inline constexpr uintptr_t Ping = 0xCC;
     inline constexpr uintptr_t PlaceId = 0x198;
-    inline constexpr uintptr_t PlayerConfigurerPointer = 0x7A650D0;
+    inline constexpr uintptr_t PlayerConfigurerPointer = 0x79F30D8;
     inline constexpr uintptr_t PlayerMouse = 0xFC8;
     inline constexpr uintptr_t Position = 0xE4;
     inline constexpr uintptr_t Primitive = 0x148;
@@ -129,16 +129,16 @@ namespace offsets {
     inline constexpr uintptr_t ReadOnlyGravity = 0x9C0;
     inline constexpr uintptr_t RenderJobToDataModel = 0x1B0;
     inline constexpr uintptr_t RenderJobToFakeDataModel = 0x38;
-    inline constexpr uintptr_t RenderJobToRenderView = 0x1D0;
+    inline constexpr uintptr_t RenderJobToRenderView = 0x1B8;
     inline constexpr uintptr_t RequireBypass = 0x0;
     inline constexpr uintptr_t RigType = 0x1C8;
     inline constexpr uintptr_t RootPartR15 = 0x5D8;
     inline constexpr uintptr_t RootPartR6 = 0x478;
-    inline constexpr uintptr_t Rotation = 0xC0;
+    inline constexpr uintptr_t Rotation = 0xC8;
     inline constexpr uintptr_t RunContext = 0x148;
     inline constexpr uintptr_t Sandboxed = 0xC5;
     inline constexpr uintptr_t ScreenGuiEnabled = 0x4CC;
-    inline constexpr uintptr_t ScriptContext = 0x3F0;
+    inline constexpr uintptr_t ScriptContext = 0x40D8;
     inline constexpr uintptr_t Sit = 0x1E0;
     inline constexpr uintptr_t SkyboxBk = 0x110;
     inline constexpr uintptr_t SkyboxDn = 0x140;
@@ -157,7 +157,7 @@ namespace offsets {
     inline constexpr uintptr_t TeamColor = 0xD0;
     inline constexpr uintptr_t TextLabelText = 0xA60;
     inline constexpr uintptr_t TextLabelVisible = 0x5B5;
-    inline constexpr uintptr_t Tool_Grip_Position = 0x4B4;
+    inline constexpr uintptr_t Tool_Grip_Position = 0x4BC;
     inline constexpr uintptr_t Transparency = 0xF0;
     inline constexpr uintptr_t UserId = 0x2C8;
     inline constexpr uintptr_t Value = 0xD0;
@@ -171,6 +171,6 @@ namespace offsets {
     inline constexpr uintptr_t WalkSpeed = 0x1D4;
     inline constexpr uintptr_t WalkSpeedCheck = 0x3BC;
     inline constexpr uintptr_t Workspace = 0x178;
-    inline constexpr uintptr_t WorkspaceToWorld = 0x408;
+    inline constexpr uintptr_t WorkspaceToWorld = 0x400;
     inline constexpr uintptr_t viewmatrix = 0x130;
 }
