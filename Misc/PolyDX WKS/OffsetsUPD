@@ -153,7 +153,7 @@ namespace offsets {
     inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xB0;
     inline constexpr uintptr_t TaskSchedulerPointer = 0x7C73D70;
     inline constexpr uintptr_t Team = 0x2A0;
-    inline constexpr uintptr_t TeamColor = 0x364;
+    inline constexpr uintptr_t TeamColor = 0xD0;
     inline constexpr uintptr_t TextLabelText = 0xDC0;
     inline constexpr uintptr_t TextLabelVisible = 0x5B5;
     inline constexpr uintptr_t Tool_Grip_Position = 0x4BC;
