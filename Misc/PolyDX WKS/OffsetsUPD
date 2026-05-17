@@ -1,5 +1,5 @@
+// Roblox Version: version-ec412128eba3476e
 namespace Offsets {
-    inline std::string ClientVersion = "version-ec412128eba3476e";
 
     namespace AirProperties {
          inline constexpr uintptr_t AirDensity = 0x18;
