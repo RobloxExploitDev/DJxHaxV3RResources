@@ -1,0 +1,58 @@
+{
+  "Loader": {
+    "LoaderIconUrl": "",
+    "LoaderBarColorHex": "#6425ff",
+    "Strings": {
+      "FileStructure": "Checking File Structure...",
+      "Authentication": "Checking Authentication...",
+      "DllsAndFiles": "Checking DLL's & Files...",
+      "VelocityFiles": "Checking Velocity Files...",
+      "Updates": "Checking Updates..."
+    }
+  },
+  "Executor": {
+    "Styles": {
+      "SettingsButtons": "#6425ff",
+      "GameHubbuttons": "#6425ff",
+      "LoginButtons": "#6425ff",
+      "SideBarButtons": "#6425ff",
+      "ExecutorButtons": "#6425ff",
+      "TabButtons": "#6425ff",
+      "Tab": "#6425ff",
+      "Tabs": "#6425ff",
+      "SimpleRedHover": "#6425ff",
+      "CustomContextMenuStyle": "#6425ff",
+      "CustomContextMenuItemStyle": "#6425ff",
+      "AnimatedListBoxItem": "#6425ff",
+      "TopBarClose": "#cf1313",
+      "TopBarMinimize": "#fffb03"
+    },
+    "UIBackgrounds": {
+      "SideBarShowerCurrent": "#6425ff",
+      "MainBackgroundOutput": "#6420dd"
+    },
+    "ScrollBarBrushes": {
+      "ScrollBar.Static.Thumb": "#6425ff",
+      "ScrollBar.MouseOver.Thumb": "#6425ff",
+      "ScrollBar.Pressed.Thumb": "#6425ff"
+    },
+    "Images": {
+      "LuaTabLogoUrl": "",
+      "ExecLogo": ""
+    },
+    "Icons": {
+      "SideConsoleButton": "\uE756",
+      "SideBarIDEButton": "\uE8C8",
+      "SideBarScriptBlox": "\uE7FC",
+      "SideBarSettings": "\uE713",
+      "ExecutionButton": "\uEDB5",
+      "ClearButton": "\uE75C",
+      "OpenFileButton": "\uE838",
+      "SaveFileButton": "\uE74E",
+      "AttachInstanceButton": "\uE71B",
+      "BtnTrending": "\uEAFC",
+      "BtnRefresh": "\uE72C",
+      "BtnSearch": "\uE721"
+    }
+  }
+}
