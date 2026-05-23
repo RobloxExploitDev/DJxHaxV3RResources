@@ -1,4 +1,4 @@
-// Roblox Version: version-4b6315bf1f0a4dbb-TEST
+// Roblox Version: version-2b1721d47abf49aa TEST
 // Byfron Version: ???
 namespace offsets {
 
@@ -105,15 +105,15 @@ namespace offsets {
         inline constexpr uintptr_t Health = 0x194;
         inline constexpr uintptr_t HipHeight = 0x1A0;
         inline constexpr uintptr_t HumanoidDisplayName = 0xD0;
-        inline constexpr uintptr_t HumanoidState = 0x8A0;
+        inline constexpr uintptr_t HumanoidState = 0x8A8;
         inline constexpr uintptr_t HumanoidStateId = 0x20;
         inline constexpr uintptr_t JumpPower = 0x1B0;
         inline constexpr uintptr_t MaxHealth = 0x1B4;
         inline constexpr uintptr_t MaxSlopeAngle = 0x1B8;
         inline constexpr uintptr_t MoveDirection = 0x158;
         inline constexpr uintptr_t RigType = 0x1CC;
-        inline constexpr uintptr_t RootPartR15 = 0x480;
-        inline constexpr uintptr_t RootPartR6 = 0x480;
+        inline constexpr uintptr_t RootPartR15 = 0x488;
+        inline constexpr uintptr_t RootPartR6 = 0x488;
         inline constexpr uintptr_t Sit = 0x1E9;
         inline constexpr uintptr_t WalkSpeed = 0x1DC;
         inline constexpr uintptr_t WalkSpeedCheck = 0x3C4;
@@ -206,12 +206,12 @@ namespace offsets {
     namespace Pointer {
         inline constexpr uintptr_t DataModelDeleterPointer = 0x7A8F910;
         inline constexpr uintptr_t FFlagList = 0x7723F28;
-        inline constexpr uintptr_t FakeDataModelPointer = 0x7868A68;
+        inline constexpr uintptr_t FakeDataModelPointer = 0x74F6758;
         inline constexpr uintptr_t JobsPointer = 0x0;
         inline constexpr uintptr_t MouseSensitivity = 0x7B2EE10;
         inline constexpr uintptr_t PlayerConfigurer = 0x7A650D8;
-        inline constexpr uintptr_t TaskScheduler = 0x7F7C478;
-        inline constexpr uintptr_t VisualEnginePointer = 0x7F52CF0;
+        inline constexpr uintptr_t TaskScheduler = 0x7BFE988;
+        inline constexpr uintptr_t VisualEnginePointer = 0x7BD51F8;
     }
 
     namespace Primitive {
