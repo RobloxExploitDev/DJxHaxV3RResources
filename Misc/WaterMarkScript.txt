@@ -15,3 +15,4 @@ if not getgenv().DJxHaxV3RWatermarkShown then
     getgenv().ShowDJxHaxV3RWatermark()
 end
 
+print("Latest DJxHaxV3R Version Is V3.0.4vr")
