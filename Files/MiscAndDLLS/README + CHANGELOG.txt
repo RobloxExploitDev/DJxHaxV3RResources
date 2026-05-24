@@ -1,5 +1,5 @@
 ====================================================
-             DJXHAXV3R UI - V3.0.3VR
+             DJXHAXV3R UI - V3.0.4VR
 ====================================================
 
                   UI  :  DJx_Devs  
@@ -20,6 +20,5 @@
 ====================================================
                  ★ CHANGELOG ★
 ----------------------------------------------------
-➤ Reverted April Fools Update
-➤ Dont Expect an Update for a While, Im Working on PolyDevX :>
+➤ Added Themes. CHeck Discord For More Info
 ====================================================
