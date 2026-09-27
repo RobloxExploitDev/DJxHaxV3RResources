@@ -3,11 +3,11 @@
     "LoaderIconUrl": "",
     "LoaderBarColorHex": "#6425ff",
     "Strings": {
-      "FileStructure": "Checking File Structure...",
-      "Authentication": "Checking Authentication...",
-      "DllsAndFiles": "Checking DLL's & Files...",
-      "VelocityFiles": "Checking Velocity Files...",
-      "Updates": "Checking Updates..."
+      "FileStructure": "Checking File Structs...",
+      "Authentication": "Checking Auth...",
+      "DllsAndFiles": "Checking DLLs...",
+      "VelocityFiles": "Checking Velocity...",
+      "Updates": "Checking Update..."
     }
   },
   "Executor": {
@@ -38,13 +38,17 @@
     },
     "Images": {
       "LuaTabLogoUrl": "",
-      "ExecLogo": ""
+      "ExecLogo": "",
+      "RobloxLogoUrl": "",
+      "ClientManagerSideLogoUrl": ""
     },
     "Icons": {
       "SideConsoleButton": "\uE756",
-      "SideBarIDEButton": "\uE8C8",
+      "SideBarIDEButton": "\uE80F",
       "SideBarScriptBlox": "\uE7FC",
       "SideBarSettings": "\uE713",
+      "SideBarClientManager": "\uE7EE",
+      "FavFilterButton": "\uE734",
       "ExecutionButton": "\uEDB5",
       "ClearButton": "\uE75C",
       "OpenFileButton": "\uE838",
@@ -53,6 +57,13 @@
       "BtnTrending": "\uEAFC",
       "BtnRefresh": "\uE72C",
       "BtnSearch": "\uE721"
+    },
+    "Notifications": {
+      "LoadingBarColorHex": "#6425ff",
+      "BackgroundHex": "#161616",
+      "BorderHex": "#2a2a2a",
+      "TitleColorHex": "#ffffff",
+      "MessageColorHex": "#cccccc"
     }
   }
 }
