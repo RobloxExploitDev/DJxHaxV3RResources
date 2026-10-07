@@ -1,3 +1,11 @@
+local exec2 = getgenv().CurrentExecDerivative
+
+if exec2 then
+	--nuh uh
+else
+	getgenv().CurrentExecDerivative = "DJxHaxV3R"
+end
+
 local HttpService = game:GetService("HttpService")
 local LogService = game:GetService("LogService")
 
